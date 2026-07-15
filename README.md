@@ -16,7 +16,7 @@ Building AI, Computer Vision & Embedded Systems
 
 I'm a **3rd-year Computer & Communication Engineering (CCE)** student at **Amrita Vishwa Vidyapeetham**.
 
-I'm passionate about building intelligent systems that combine **Artificial Intelligence, Machine Learning, Computer Vision, IoT, and Hardware Design**. I enjoy solving real-world problems through practical projects, participating in hackathons, and continuously exploring emerging technologies.
+I'm passionate about building systems that combine **Artificial Intelligence, Machine Learning, Computer Vision, IoT, and Hardware Design**. I enjoy solving real-world problems through practical projects, participating in hackathons, and continuously exploring emerging technologies.
 
 ---
 
@@ -58,13 +58,7 @@ I'm passionate about building intelligent systems that combine **Artificial Inte
 
 ## 📈 GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hanshitha07&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanshitha07&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
