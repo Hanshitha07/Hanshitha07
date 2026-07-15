@@ -16,7 +16,7 @@ AI/ML • Computer Vision • IoT • VLSI
 
 I'm a **3rd-year Computer & Communication Engineering (CCE)** student at **Amrita Vishwa Vidyapeetham**.
 
-I'm passionate about building intelligent systems that combine **Artificial Intelligence, Machine Learning, Computer Vision, IoT, and Hardware Design**. I enjoy solving real-world problems through practical projects, participating in hackathons, and continuously learning emerging technologies.
+I'm passionate about building systems that combine **Artificial Intelligence, Machine Learning, Computer Vision, IoT, and Hardware Design**. I enjoy solving real-world problems through practical projects, participating in hackathons, and continuously learning emerging technologies.
 
 ---
 
