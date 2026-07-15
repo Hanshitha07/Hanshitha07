@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Hanshitha 👋</h1>
+<h1 align="center">Hanshitha Killi</h1>
 
 <p align="center">
 <b>Computer & Communication Engineering Student</b><br>
-AI/ML • Computer Vision • IoT • VLSI
+Building AI, Computer Vision & Embedded Systems
 </p>
 
 <p align="center">
@@ -16,18 +16,18 @@ AI/ML • Computer Vision • IoT • VLSI
 
 I'm a **3rd-year Computer & Communication Engineering (CCE)** student at **Amrita Vishwa Vidyapeetham**.
 
-I'm passionate about building systems that combine **Artificial Intelligence, Machine Learning, Computer Vision, IoT, and Hardware Design**. I enjoy solving real-world problems through practical projects, participating in hackathons, and continuously learning emerging technologies.
+I'm passionate about building intelligent systems that combine **Artificial Intelligence, Machine Learning, Computer Vision, IoT, and Hardware Design**. I enjoy solving real-world problems through practical projects, participating in hackathons, and continuously exploring emerging technologies.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|:------:|
-| **Sobel Edge Detection Hardware Accelerator** | FPGA implementation of Sobel Edge Detection for high-speed image processing. | Verilog HDL • Vivado | ✅ |
-| **Green Energy Grid Optimizer** | Hybrid CMSF and Tarjan's Bridge Detection based renewable energy distribution optimizer. | Python • NetworkX • React • TypeScript | ✅ |
-| **SpeechCraft AI** | AI-powered speech therapy platform with pronunciation practice, speech recognition, and interactive learning games. | JavaScript • Groq API • Web Speech API | ✅ |
-| **Personalized Retail Recommendation Engine** | Machine learning recommendation system using DBSCAN clustering for customer segmentation and personalized product recommendations. | Python • Scikit-learn • Pandas • NumPy | ✅ |
+| **Sobel Edge Detection Hardware Accelerator** | FPGA-based implementation of the Sobel Edge Detection algorithm for efficient real-time image processing using Verilog HDL. | Verilog HDL • Vivado | ✅ |
+| **Green Energy Grid Optimizer** | Graph-based renewable energy distribution system using Hybrid CMSF (Esau-Williams) and Tarjan's Bridge Detection to optimize cable cost, capacity, and grid reliability. | Python • NetworkX • React • TypeScript • Matplotlib | ✅ |
+| **SpeechCraft AI** | AI-powered speech therapy and pronunciation assistant featuring speech recognition, pronunciation analysis, and interactive learning games. | JavaScript • Groq API • Web Speech API | ✅ |
+| **Personalized Retail Recommendation Engine** | Machine learning recommendation system using DBSCAN clustering for customer segmentation and personalized product recommendations from retail transaction data. | Python • Scikit-learn • Pandas • NumPy | ✅ |
 
 ---
 
@@ -36,7 +36,7 @@ I'm passionate about building systems that combine **Artificial Intelligence, Ma
 | Category | Technologies |
 |-----------|--------------|
 | **Programming Languages** | Python • C • JavaScript • SQL |
-| **Artificial Intelligence & ML** | Machine Learning • Deep Learning • TensorFlow • Scikit-learn • Keras |
+| **Artificial Intelligence & Machine Learning** | Machine Learning • Deep Learning • TensorFlow • Scikit-learn • Keras |
 | **Computer Vision** | OpenCV • CNNs • Image Processing |
 | **Hardware & Embedded Systems** | Verilog HDL • FPGA • Vivado • Arduino • Raspberry Pi |
 | **Web Development** | HTML • CSS • React • Streamlit |
@@ -45,13 +45,13 @@ I'm passionate about building systems that combine **Artificial Intelligence, Ma
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- FPGA Design using Verilog HDL
-- Computer Vision
 - Deep Learning
-- AWS Cloud
+- Computer Vision
+- FPGA Design using Verilog HDL
 - VLSI Design
+- AWS Cloud
 - Edge AI
 
 ---
@@ -60,9 +60,9 @@ I'm passionate about building systems that combine **Artificial Intelligence, Ma
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hanshitha07&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hanshitha07&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanshitha07&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanshitha07&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -74,9 +74,9 @@ I'm passionate about building systems that combine **Artificial Intelligence, Ma
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/hanshitha-killi-1aa27a326
-- 📧 Email: killihanshitha7@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/hanshitha-killi-1aa27a326
+- 📧 **Email:** killihanshitha7@gmail.com
 
 ---
