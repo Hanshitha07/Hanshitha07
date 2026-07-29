@@ -56,16 +56,6 @@ I'm passionate about building systems that combine **Artificial Intelligence, Ma
 
 ---
 
-## 📈 GitHub Statistics
-
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hanshitha07&theme=github-dark&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 📫 Connect With Me
